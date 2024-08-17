@@ -1,5 +1,5 @@
 {
-    "root": "Landwind",
+    "root": "LANDWIND",
     "routes": [
       {
         "src": "/.*",
